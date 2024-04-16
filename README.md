@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agustinorigone
 - 👀 I’m interested in Web3 | dApps | Blockchain
-- 🌱 I’m currently learning Ethers.js
+- 🌱 I’m currently working with Ethers.js
 - 💞️ I’m looking to collaborate on Blockchain Projects
 
 <!---
