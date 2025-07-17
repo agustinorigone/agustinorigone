@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @agustinorigone
-- 👀 I’m interested in Web3 | dApps | Blockchain
-- 🌱 I’m currently working with Ethers.js
-- 💞️ I’m looking to collaborate on Blockchain Projects
+- 🌱 I’m currently working as a blockchain engineer for the core chain.
 
 <!---
 agustinorigone/agustinorigone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
